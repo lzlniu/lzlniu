@@ -1,6 +1,6 @@
 ## Hello World 🎈
-<p>I'm a MSc student, currently learning bioinformatics.</p>
-<p>✉ zelin.l@foxmail.com</p>
+<p>- 🧬 I'm a MSc student, currently learning bioinformatics at University of Copenhagen.</p>
+<p>- 🔬 I've been working on developing bioinformatics tools/pipelines for comparative genomics.</p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lzlniu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=stars,contribs" alt="LiDeer's github stats"/></a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&card_width=446&custom_title=LiDeer's Top Languages" alt="LiDeer's top languages"/></a></p>
 
