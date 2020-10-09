@@ -1,8 +1,8 @@
 ## Hello World 🎈
 <p>I'm a MSc student, currently learning bioinformatics.</p>
 <p>✉ zelin.l@foxmail.com</p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lzlniu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=stars,contribs&custom_title=Stats" alt="LiDeer's github stats"/></a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=10&card_width=446" alt="LiDeer's top languages"/></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lzlniu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=stars,contribs&custom_title=LiDeer's Stats" alt="LiDeer's github stats"/></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&card_width=446&custom_title=LiDeer's Top languages" alt="LiDeer's top languages"/></a></p>
 
 <!--
 **lzlniu/lzlniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
