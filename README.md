@@ -2,7 +2,7 @@
 <p>- 🧬 I'm a MSc student, currently learning bioinformatics at University of Copenhagen.</p>
 <p>- 🔬 I've been working on developing bioinformatics tools/pipelines. Welcome to my page: https://lzlniu.github.io</p>
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=jupyternotebook,html,css&card_width=446&custom_title=LiDeer's Top Languages" alt="LiDeer's top languages"/></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=jupyter,html,css&card_width=446&custom_title=LiDeer's Top Languages" alt="LiDeer's top languages"/></a></p>
 
 <!--
 **lzlniu/lzlniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
