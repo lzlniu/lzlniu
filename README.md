@@ -1,10 +1,13 @@
 ## Hello World 🎈
-<p>- 🧬 I'm a MSc student, currently learning bioinformatics at University of Copenhagen.</p>
-<p>- 🔬 I've been working on developing bioinformatics tools/pipelines. Welcome to my page: https://lzlniu.github.io</p>
+- 🧬 I'm a bioinformatics developer, currently working in a pharma company.
+- 🔬 I've been working on developing bioinformatics tools/pipelines and have done some research projects. My recent interests are text mining and network biology. Welcome to <a href="https://lzlniu.github.io" target=”_blank”>my page</a>.
+
+[![LiDeer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook&hide_title=true&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=Jupyter Notebook,html,css&hide_title=true&hide_border=true&theme=nord" alt="LiDeer's top languages"/></a></p>
 
-<!--
 **lzlniu/lzlniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
