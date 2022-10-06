@@ -1,8 +1,8 @@
 ## Hello World 🎈
-- 🧬 I'm a bioinformatics developer, currently working in a pharma company.
+- 🧬 I'm a bioinformatics developer, currently working in Novo Nordisk.
 - 🔬 I've been working on developing bioinformatics tools/pipelines and have done some research projects. My recent interests are text mining and network biology. Welcome to <a href="https://lzlniu.github.io" target=”_blank”>my page</a>.
 
-[![LiDeer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook&hide_title=true&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![LiDeer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzlniu&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook,shell&hide_title=true&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
